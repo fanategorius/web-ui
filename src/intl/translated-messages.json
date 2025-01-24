@@ -4862,7 +4862,6 @@
 	"newNic":"Создать",
 	"newSnapshot":"Создать снимок",
 	"nextRunConfirmActionSave":"Сохранить изменения",
-	"nextRunConfirmContent":"Некоторые изменения будут применены после перезагрузки",
 	"nextRunConfirmContentDetail":"Некоторые изменения не будут применены до тех пор пока виртуальная машина не будет перезагружена.",
 	"nextRunConfirmTitle":"Применить изменения после перезагрузки",
 	"nextRunConfrimActionSaveRestart":"Сохранить изменения и перезагрузить",
