@@ -4612,7 +4612,6 @@
 	"cluster":"Кластер",
 	"clusterCanOnlyChangeWhenVmStopped":"Кластер может быть изменён, только когда ВМ остановлена.",
 	"confirmDelete":"Подтвердите удаление",
-	"confirmRestore":"Подтвердите восстановление",
 	"connect":"Подключиться",
 	"connectAutomatically":"Подключиться автоматически",
 	"connecting":"Подключение",
