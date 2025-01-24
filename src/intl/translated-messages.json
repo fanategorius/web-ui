@@ -5022,7 +5022,6 @@
 	"unknown":"неизвестно",
 	"unknownDatacenter":"неизвестный дата-центр",
 	"unsavedChangesConfirmMessage":"Вы уверены, что хотите отменить изменения?",
-	"unsavedChangesTitle":"Окно содержит несохранённые изменения",
 	"untilNextPageReload":"до следующей перезагрузки страницы",
 	"updateCloudInit":"Вы хотите обновить имя узла Cloud-init на новой ВМ?",
 	"updateVm":"Обновить ВМ",
