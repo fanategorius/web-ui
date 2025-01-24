@@ -4824,7 +4824,6 @@
 	"hotPlugConfirmApplyNow":"Применить немедленно",
 	"hotPlugConfirmContent":"Применить немедленно на горячую",
 	"hotPlugConfirmContentDetail":"Применение изменений параметров CPU и/или ОЗУ может быть сделано немедленно, но должно быть сделано на горячую. Вы можете выбрать применение этих изменений после перезагрузки.",
-	"hotPlugConfirmTitle":"Применить изменения",
 	"htmlPleaseReferToDocumentationForMoreInformation": "Обратитесь к <a href=\"{documentationUrl}\" target=\"_blank\"документации</a> для получения дополнительной информации.",
 	"htmlUnsupportedOvirtVersionFoundButVersionAtLeastRequired":"<strong> Обнаружена неподдерживаемая версия {version} {productName} </strong>, но требуется как минимум версия {requiredVersion}.",
 	"icon":"Иконка",
